@@ -1,2 +1,2 @@
-Timestamp,Method,text,St.NER3,St.NER4,St.NER7,spaCy,Presidio,Word2Vec_t=0.5,Word2Vec_t=0.25,k-anonymity_Random,k-anonymity_Greedy,Manual,Student-LLM,Sparks-LLM,MvM-LLM,Attributes-LLM
-2025-11-04 14:16:22,RAG Risk k=10 chunk=128 FAISS_NoMasks_thenlper/gte-small mistralai/Mistral-7B-Instruct-v0.3_Quant=8_Prompt=5False_CAPPR_Prior=False_Cache=True_ShortIDs=False,88.07,68.89,52.62,72.69,47.55,65.82,41.77,35.44,40.69,44.12,51.90,61.84,42.86,30.20,29.29
+Timestamp,Method,text,St.NER3,St.NER4,St.NER7,spaCy,Presidio,Word2Vec_t=0.5,Word2Vec_t=0.25,k-anonymity_Random,k-anonymity_Greedy,Manual,Student-LLM,Sparks-LLM,MvM-LLM
+2025-11-04 14:16:22,RAG Risk k=10 chunk=128 FAISS_NoMasks_thenlper/gte-small mistralai/Mistral-7B-Instruct-v0.3_Quant=8_Prompt=5False_CAPPR_Prior=False_Cache=True_ShortIDs=False,88.07,68.89,52.62,72.69,47.55,65.82,41.77,35.44,40.69,44.12,51.90,61.84,42.86,30.20
